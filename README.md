@@ -1,8 +1,7 @@
-# Reto final lista de tareas por hacer 
+# Reto postulacion training de Automatizacion de Pruebas en SoftK U
 
-Se realiza la actividad propuesta de crear tareas y varias subtareas, se construye
-el backend con la ayuda de spring boot y Mysql, en el fontEnd usamos javascript puro
-axios para realizar las peticiones y boostrap para mejorar el diseño.
+Se realiza la actividad propuesta de crear un metodo que permita crear y clasificar naves espaciales y un mecanismo para 
+hacer consultas simples y avanzadas
 
 - [Video Youtube]
 
