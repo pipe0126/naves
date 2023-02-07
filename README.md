@@ -4,20 +4,20 @@ Se realiza la actividad propuesta de crear tareas y varias subtareas, se constru
 el backend con la ayuda de spring boot y Mysql, en el fontEnd usamos javascript puro
 axios para realizar las peticiones y boostrap para mejorar el diseño.
 
-- [Video Youtube]([https://youtu.be/Llcu8dSob-c](https://youtu.be/1LjqKIRAy1U))
+- [Video Youtube]
 
 ## Authors
 
-- [@Juan David Amaya](https://github.com/juandavidamayaardila/listsaTareas)
-- [@Repositorio](https://github.com/juandavidamayaardila/listsaTareas)
+- [@Andres Amortegui]
+- [@Repositorio]
 
 ## Installation
 Servidor de base de datos Mysql, la conexion se encuentra en el archivo properties.
 ```bash
   spring.jpa.hibernate.ddl-auto=update
   spring.datasource.url=jdbc:mysql://${MYSQL_HOST:localhost}:3306/naves
-  spring.datasource.username=juan
-  spring.datasource.password=j0slwuYE
+  spring.datasource.username=root
+  spring.datasource.password=12345
 ```
 ## Feedback
 Usar apis para la creacion de proyectos es bastante util ya que un mismo backend
